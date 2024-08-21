@@ -1,4 +1,4 @@
-#### Hi there 👋 I'm Kaiwen Zhao.
+### Hi there 👋 I'm Kaiwen Zhao.
 
 
 <!--
