@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="path/to/your/logo.png" alt="University of Manchester" width="50"/>
   <span>Hi there 👋 I'm Kaiwen Zhao, currently an undergraduate student at the University of Manchester.</span>
 </p>
 
