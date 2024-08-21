@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Kaiwen Zhao, currently an undergraduate student at <span style="color: purple;">**the University of Manchester**</span>
+# Hi there 👋 I'm Kaiwen Zhao, currently an undergraduate student at <span style="color: purple;">the University of Manchester</span>
 
 Welcome to my page!  
 
