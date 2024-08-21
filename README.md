@@ -1,5 +1,4 @@
-# Hi there 👋 I'm Kaiwen Zhao, currently an undergraduate student at the ![University of Manchester]([[https://example.com/university-logo.png](https://assets.manchester.ac.uk/corporate/images/design/logo-university-of-manchester.png)].
-
+# Hi there 👋 I'm Kaiwen Zhao, currently an undergraduate student at the ![University of Manchester](https://assets.manchester.ac.uk/corporate/images/design/logo-university-of-manchester.png).
 
 Welcome to my page!  
 I'm  currently living in [Current Location].
