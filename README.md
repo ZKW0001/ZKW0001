@@ -1,7 +1,9 @@
-# Hi there 👋 I'm Kaiwen Zhao, currently an undergraduate student at the ![University of Manchester](https://assets.manchester.ac.uk/corporate/images/design/logo-university-of-manchester.png).
+<p align="center">
+  <img src="path/to/your/logo.png" alt="University of Manchester" width="50"/>
+  <span>Hi there 👋 I'm Kaiwen Zhao, currently an undergraduate student at the University of Manchester.</span>
+</p>
 
 Welcome to my page!  
-I'm  currently living in [Current Location].
 
 ### Things I code with
 ![Technology](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
