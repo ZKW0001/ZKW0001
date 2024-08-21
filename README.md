@@ -1,6 +1,4 @@
-<p align="center">
-  <span>Hi there 👋 I'm Kaiwen Zhao, currently an undergraduate student at the University of Manchester.</span>
-</p>
+# Hi there 👋 I'm Kaiwen Zhao, currently an undergraduate student at <span style="color: purple;">**the University of Manchester**</span>
 
 Welcome to my page!  
 
