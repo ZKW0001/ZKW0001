@@ -1,9 +1,9 @@
 # Hi there 👋 
 
 Welcome to my page!  
-I'm Kaiwen Zhao, currently an undergraduate student at **the University of Manchester**
+I'm Kaiwen Zhao, currently an undergraduate student at **the University of Manchester**.
 
-### Things I code with
+### Things I code with:
 ![Technology](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
 ![Technology](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Technology](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
