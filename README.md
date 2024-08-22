@@ -3,13 +3,19 @@
 Welcome to my page!  
 I'm Kaiwen Zhao, currently an undergraduate student at **the University of Manchester**.
 
-### Things I code with:
-![Technology](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
-![Technology](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Technology](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Technology](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Technology](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
-<!-- Add more badges that represent the technologies you use -->
+### Languages
+![C/C++](https://img.shields.io/badge/-C/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+### Technologies
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white)
 
 ### Open source projects
 | 📦 Projects                               | ⭐ Stars | 🍴 Forks | 🛠️ Issues | 🔄 Pull requests |
