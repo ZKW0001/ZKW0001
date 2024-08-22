@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-## Welcome to my page!  
+### Welcome to my page!  
 I'm Kaiwen Zhao, currently an undergraduate student at **the University of Manchester**.
 
 ### Languages I use:
@@ -9,6 +9,7 @@ I'm Kaiwen Zhao, currently an undergraduate student at **the University of Manch
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white)
 
 ### Technologies and tools:
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
