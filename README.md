@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-##Welcome to my page!  
+## Welcome to my page!  
 I'm Kaiwen Zhao, currently an undergraduate student at **the University of Manchester**.
 
 ### Languages I use:
