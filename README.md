@@ -1,7 +1,7 @@
 # Hi there 👋 
 
 ### Welcome to my page!  
-I'm Kaiwen Zhao, currently an undergraduate student at **the University of Manchester**.
+I'm Kaiwen Zhao, currently an undergraduate student at the University of Manchester.
 
 ### Languages I use:
 ![C/C++](https://img.shields.io/badge/-C/C++-00599C?logo=c%2B%2B&logoColor=white)
