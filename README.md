@@ -19,18 +19,13 @@ I'm Kaiwen Zhao, currently an undergraduate 3rd year student at the University o
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white)
 
 ### Open source projects
-| 📦 Projects                               | ⭐ Stars | 🍴 Forks | 🛠️ Issues | 🔄 Pull requests |
-|-------------------------------------------|---------|---------|-----------|-----------------|
-| [Project Name 1](#)                       | [Stars] | [Forks] | [Issues]  | [Pull Requests] |
-| [Project Name 2](#)                       | [Stars] | [Forks] | [Issues]  | [Pull Requests] |
-| [Project Name 3](#)                       | [Stars] | [Forks] | [Issues]  | [Pull Requests] |
-<!-- Replace with your own projects -->
-
+⚡[Yolov8 video detection project](https://github.com/ZKW0001/yolov8_video_detection))
+⚡[Web design of a calculius calculator](https://github.com/ZKW0001/Web-design-for-calculus-calculator)
+⚡[Quantum circuit study notes](https://github.com/ZKW0001/quantum-circuit-notes)
 ### My latest posts
 🔥 [Title of Blog Post 1](#)  
 🔥 [Title of Blog Post 2](#)  
 🔥 [Title of Blog Post 3](#)  
-<!-- Replace with your own blog post links -->
 
 
 
