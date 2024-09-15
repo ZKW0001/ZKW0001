@@ -19,17 +19,18 @@ I'm Kaiwen Zhao, currently an undergraduate 3rd year student at the University o
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white)
 
 ### Open source projects
-⚡
+⚡<a href="https://github.com/ZKW0001/yolov8_video_detection" target="_blank" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/Yolov8%20video%20detection%20project-pink?style=for-the-badge" />
+</a>
 
-<a href="https://github.com/ZKW0001/yolov8_video_detection" target="_blank"><img src="https://img.shields.io/badge/Yolov8%20video%20detection%20project-pink?style=for-the-badge" /></a>
+⚡<a href="https://github.com/ZKW0001/Web-design-for-calculus-calculator" target="_blank" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/Web%20design%20of%20a%20calculus%20calculator-blue?style=for-the-badge" />
+</a>
 
-⚡
+⚡<a href="https://github.com/ZKW0001/quantum-circuit-notes" target="_blank" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/Quantum%20circuit%20study%20notes-green?style=for-the-badge" />
+</a>
 
-<a href="https://github.com/ZKW0001/Web-design-for-calculus-calculator" target="_blank"><img src="https://img.shields.io/badge/Web%20design%20of%20a%20calculus%20calculator-blue?style=for-the-badge" /></a>
-
-⚡
-
-<a href="https://github.com/ZKW0001/quantum-circuit-notes" target="_blank"><img src="https://img.shields.io/badge/Quantum%20circuit%20study%20notes-green?style=for-the-badge" /></a>
 
 
 ### My latest posts
