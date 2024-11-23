@@ -16,7 +16,8 @@ I'm Kaiwen Zhao, currently an undergraduate 3rd year student at the University o
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=white)  
 
 
 ### Coursework prokects
