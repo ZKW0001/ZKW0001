@@ -22,39 +22,33 @@ I'm Kaiwen Zhao, currently an undergraduate 3rd year student at the University o
 
 ### Projects
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/ZKW0001/Multithreaded_Programming_Project" style="text-decoration:none;">
-        <img src="https://img.shields.io/badge/Multithreaded_Programming_Project-%23373BCE?style=for-the-badge&logo=github&logoColor=white&labelWidth=400" alt="Multithreaded Programming Project">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/ZKW0001/Data_networking_project" style="text-decoration:none;">
-        <img src="https://img.shields.io/badge/Data_Networking_Project-%23CE3B9A?style=for-the-badge&logo=github&logoColor=white&labelWidth=400" alt="Data Networking Project">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ZKW0001/STM32_microcontroller_programming" style="text-decoration:none;">
-        <img src="https://img.shields.io/badge/STM32_Microcontroller_Programming-%23CE9F3B?style=for-the-badge&logo=github&logoColor=white&labelWidth=400" alt="STM32 Microcontroller Programming">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/ZKW0001/Statistical_Analysis_Using_C_on_Engineering_Datasets" style="text-decoration:none;">
-        <img src="https://img.shields.io/badge/Statistical_Analysis_Using_C-%233BCE6F?style=for-the-badge&logo=github&logoColor=white&labelWidth=400" alt="Statistical Analysis Using C">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="text-align:center;">
-      <a href="https://github.com/ZKW0001/WebCalculator_Project" style="text-decoration:none;">
-        <img src="https://img.shields.io/badge/WebCalculator_Project-%236B3BCE?style=for-the-badge&logo=github&logoColor=white&labelWidth=800" alt="WebCalculator Project">
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%;">
+  <a href="https://github.com/ZKW0001/Multithreaded_Programming_Project" style="flex: 1 1 48%; text-decoration: none; margin: 5px;">
+    <div style="background: linear-gradient(90deg, #373BCE, #4B51E3); color: white; padding: 20px; text-align: center; font-weight: bold; border-radius: 10px;">
+      Multithreaded Programming Project
+    </div>
+  </a>
+  <a href="https://github.com/ZKW0001/Data_networking_project" style="flex: 1 1 48%; text-decoration: none; margin: 5px;">
+    <div style="background: linear-gradient(90deg, #CE3B9A, #E356B4); color: white; padding: 20px; text-align: center; font-weight: bold; border-radius: 10px;">
+      Data Networking Project
+    </div>
+  </a>
+  <a href="https://github.com/ZKW0001/STM32_microcontroller_programming" style="flex: 1 1 48%; text-decoration: none; margin: 5px;">
+    <div style="background: linear-gradient(90deg, #CE9F3B, #E3B355); color: white; padding: 20px; text-align: center; font-weight: bold; border-radius: 10px;">
+      STM32 Microcontroller Programming
+    </div>
+  </a>
+  <a href="https://github.com/ZKW0001/Statistical_Analysis_Using_C_on_Engineering_Datasets" style="flex: 1 1 48%; text-decoration: none; margin: 5px;">
+    <div style="background: linear-gradient(90deg, #3BCE6F, #56E388); color: white; padding: 20px; text-align: center; font-weight: bold; border-radius: 10px;">
+      Statistical Analysis Using C
+    </div>
+  </a>
+  <a href="https://github.com/ZKW0001/WebCalculator_Project" style="flex: 1 1 100%; text-decoration: none; margin: 5px;">
+    <div style="background: linear-gradient(90deg, #6B3BCE, #8856E3); color: white; padding: 20px; text-align: center; font-weight: bold; border-radius: 10px;">
+      WebCalculator Project
+    </div>
+  </a>
+</div>
 
 
 
