@@ -22,29 +22,24 @@ I'm Kaiwen Zhao, currently an undergraduate 3rd year student at the University o
 
 ### Projects
 
-<p align="center">
-  <a href="https://github.com/ZKW0001/Multithreaded_Programming_Project" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Multithreaded_Programming_Project-%23373BCE?style=for-the-badge&logo=github&logoColor=white" alt="Multithreaded Programming Project">
-  </a>
-  <a href="https://github.com/ZKW0001/Data_networking_project" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Data_Networking_Project-%23CE3B9A?style=for-the-badge&logo=github&logoColor=white" alt="Data Networking Project">
-  </a>
-</p>
+# Projects
 
-<p align="center">
-  <a href="https://github.com/ZKW0001/STM32_microcontroller_programming" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/STM32_Microcontroller_Programming-%23CE9F3B?style=for-the-badge&logo=github&logoColor=white" alt="STM32 Microcontroller Programming">
-  </a>
-  <a href="https://github.com/ZKW0001/Statistical_Analysis_Using_C_on_Engineering_Datasets" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Statistical_Analysis_Using_C-%233BCE6F?style=for-the-badge&logo=github&logoColor=white" alt="Statistical Analysis Using C">
-  </a>
-</p>
+<a href="https://github.com/ZKW0001/Multithreaded_Programming_Project" style="text-decoration:none; display:block; text-align:left;">
+  <img src="https://img.shields.io/badge/Multithreaded_Programming_Project-%23373BCE?style=for-the-badge&logo=github&logoColor=white" alt="Multithreaded Programming Project">
+</a>
+<a href="https://github.com/ZKW0001/Data_networking_project" style="text-decoration:none; display:block; text-align:left;">
+  <img src="https://img.shields.io/badge/Data_Networking_Project-%23CE3B9A?style=for-the-badge&logo=github&logoColor=white" alt="Data Networking Project">
+</a>
+<a href="https://github.com/ZKW0001/STM32_microcontroller_programming" style="text-decoration:none; display:block; text-align:left;">
+  <img src="https://img.shields.io/badge/STM32_Microcontroller_Programming-%23CE9F3B?style=for-the-badge&logo=github&logoColor=white" alt="STM32 Microcontroller Programming">
+</a>
+<a href="https://github.com/ZKW0001/Statistical_Analysis_Using_C_on_Engineering_Datasets" style="text-decoration:none; display:block; text-align:left;">
+  <img src="https://img.shields.io/badge/Statistical_Analysis_Using_C-%233BCE6F?style=for-the-badge&logo=github&logoColor=white" alt="Statistical Analysis Using C">
+</a>
+<a href="https://github.com/ZKW0001/WebCalculator_Project" style="text-decoration:none; display:block; text-align:left;">
+  <img src="https://img.shields.io/badge/WebCalculator_Project-%236B3BCE?style=for-the-badge&logo=github&logoColor=white" alt="WebCalculator Project">
+</a>
 
-<p align="center">
-  <a href="https://github.com/ZKW0001/WebCalculator_Project" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/WebCalculator_Project-%236B3BCE?style=for-the-badge&logo=github&logoColor=white" alt="WebCalculator Project">
-  </a>
-</p>
 
 
 <!-- ### Open source projects
