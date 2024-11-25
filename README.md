@@ -24,13 +24,13 @@ I'm Kaiwen Zhao, currently an undergraduate 3rd year student at the University o
 
 ### Projects
 <div align="left">
-  <a href="https://github.com/ZKW0001/Multithreaded_Programming_Project">
-    <img src="https://img.shields.io/badge/Click_for_details-Multithreaded_Programming_Project-%23373BCE?style=for-the-badge&logo=github&logoColor=white" alt="Multithreaded Programming Project">
+  <a href="https://github.com/ZKW0001/Data_networking_project">
+    <img src="https://img.shields.io/badge/Click_for_details-Data_Networking_Project-%23CE3B9A?style=for-the-badge&logo=github&logoColor=white" alt="Data Networking Project">
   </a>
 </div>
 <div align="left">
-  <a href="https://github.com/ZKW0001/Data_networking_project">
-    <img src="https://img.shields.io/badge/Click_for_details-Data_Networking_Project-%23CE3B9A?style=for-the-badge&logo=github&logoColor=white" alt="Data Networking Project">
+  <a href="https://github.com/ZKW0001/Multithreaded_Programming_Project">
+    <img src="https://img.shields.io/badge/Click_for_details-Multithreaded_Programming_Project-%23373BCE?style=for-the-badge&logo=github&logoColor=white" alt="Multithreaded Programming Project">
   </a>
 </div>
 <div align="left">
