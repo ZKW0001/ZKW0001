@@ -22,45 +22,15 @@ I'm Kaiwen Zhao, currently an undergraduate 3rd year student at the University o
 
 ### Projects
 
-<div style="display: flex; flex-direction: column; gap: 10px; width: 100%;">
-  <!-- Row 1 -->
-  <div style="display: flex; gap: 10px; width: 100%;">
-    <a href="https://github.com/ZKW0001/Multithreaded_Programming_Project" style="text-decoration: none; width: 50%;">
-      <div style="background-color: #FF6B6B; padding: 20px 40px; border-radius: 8px; text-align: left; color: white; font-weight: bold; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-        <span style="display: inline-block; text-align: center; width: 100%;">Multithreaded Programming Project</span>
-      </div>
-    </a>
-    <a href="https://github.com/ZKW0001/Data_networking_project" style="text-decoration: none; width: 50%;">
-      <div style="background-color: #4ECDC4; padding: 20px 40px; border-radius: 8px; text-align: left; color: white; font-weight: bold; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-        <span style="display: inline-block; text-align: center; width: 100%;">Data Networking Project</span>
-      </div>
-    </a>
-  </div>
+[![](https://img.shields.io/badge/-Multithreaded%20Programming%20Project-FF6B6B?style=flat-square&logo=c%2B%2B)](https://github.com/ZKW0001/Multithreaded_Programming_Project)
 
-  <!-- Row 2 -->
-  <div style="display: flex; gap: 10px; width: 100%;">
-    <a href="https://github.com/ZKW0001/STM32_microcontroller_programming" style="text-decoration: none; width: 50%;">
-      <div style="background-color: #45B7D1; padding: 20px 40px; border-radius: 8px; text-align: left; color: white; font-weight: bold; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-        <span style="display: inline-block; text-align: center; width: 100%;">STM32 Microcontroller Programming</span>
-      </div>
-    </a>
-    <a href="https://github.com/ZKW0001/Statistical_Analysis_Using_C_on_Engineering_Datasets" style="text-decoration: none; width: 50%;">
-      <div style="background-color: #FFA07A; padding: 20px 40px; border-radius: 8px; text-align: left; color: white; font-weight: bold; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-        <span style="display: inline-block; text-align: center; width: 100%;">Statistical Analysis Using C</span>
-      </div>
-    </a>
-  </div>
+[![](https://img.shields.io/badge/-Data%20Networking%20Project-4ECDC4?style=flat-square&logo=cisco)](https://github.com/ZKW0001/Data_networking_project)
 
-  <!-- Row 3 -->
-  <div style="display: flex; gap: 10px; width: 100%;">
-    <a href="https://github.com/ZKW0001/WebCalculator_Project" style="text-decoration: none; width: 50%;">
-      <div style="background-color: #9B59B6; padding: 20px 40px; border-radius: 8px; text-align: left; color: white; font-weight: bold; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-        <span style="display: inline-block; text-align: center; width: 100%;">WebCalculator Project</span>
-      </div>
-    </a>
-    <div style="width: 50%;"></div> <!-- Empty div to maintain layout -->
-  </div>
-</div>
+[![](https://img.shields.io/badge/-STM32%20Microcontroller%20Programming-45B7D1?style=flat-square&logo=arm)](https://github.com/ZKW0001/STM32_microcontroller_programming)
+
+[![](https://img.shields.io/badge/-Statistical%20Analysis%20Using%20C-FFA07A?style=flat-square&logo=c)](https://github.com/ZKW0001/Statistical_Analysis_Using_C_on_Engineering_Datasets)
+
+[![](https://img.shields.io/badge/-WebCalculator%20Project-9B59B6?style=flat-square&logo=javascript)](https://github.com/ZKW0001/WebCalculator_Project)
 
 
 <!-- ### Open source projects
