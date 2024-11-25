@@ -20,10 +20,7 @@ I'm Kaiwen Zhao, currently an undergraduate 3rd year student at the University o
 ![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=white)  
 
 ### Hobbies:
-![Hiking](https://img.shields.io/badge/-Hiking-8B4513?logo=hiking&logoColor=white)
-![Gym](https://img.shields.io/badge/-Gym-FF4500?logo=dumbbell&logoColor=white)
-![Skiing](https://img.shields.io/badge/-Skiing-1E90FF?logo=skiing&logoColor=white)
-![Board Games](https://img.shields.io/badge/-Board%20Games-8A2BE2?logo=gamepad&logoColor=white)
+🥾 **Hiking** &nbsp;&nbsp; | &nbsp;&nbsp; 🏋️ **Gym** &nbsp;&nbsp; | &nbsp;&nbsp; 🎿 **Skiing** &nbsp;&nbsp; | &nbsp;&nbsp; 🎲 **Board Games**  
 
 ### Projects
 <div align="left">
