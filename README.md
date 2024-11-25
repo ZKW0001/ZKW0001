@@ -26,40 +26,34 @@ I'm Kaiwen Zhao, currently an undergraduate 3rd year student at the University o
 <tr>
 <td width="50%">
 
-### [Multithreaded Programming Project](https://github.com/ZKW0001/Multithreaded_Programming_Project)
-![](https://via.placeholder.com/600x100/FF6B6B/FFFFFF?text=+)
+[![Multithreaded Programming Project](https://via.placeholder.com/600x200/FF6B6B/FFFFFF/FF6B6B?text=Multithreaded+Programming+Project)](https://github.com/ZKW0001/Multithreaded_Programming_Project)
 
 </td>
 <td width="50%">
 
-### [Data Networking Project](https://github.com/ZKW0001/Data_networking_project)
-![](https://via.placeholder.com/600x100/4ECDC4/FFFFFF?text=+)
+[![Data Networking Project](https://via.placeholder.com/600x200/4ECDC4/FFFFFF/4ECDC4?text=Data+Networking+Project)](https://github.com/ZKW0001/Data_networking_project)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### [STM32 Microcontroller Programming](https://github.com/ZKW0001/STM32_microcontroller_programming)
-![](https://via.placeholder.com/600x100/45B7D1/FFFFFF?text=+)
+[![STM32 Microcontroller Programming](https://via.placeholder.com/600x200/45B7D1/FFFFFF/45B7D1?text=STM32+Microcontroller+Programming)](https://github.com/ZKW0001/STM32_microcontroller_programming)
 
 </td>
 <td width="50%">
 
-### [Statistical Analysis Using C](https://github.com/ZKW0001/Statistical_Analysis_Using_C_on_Engineering_Datasets)
-![](https://via.placeholder.com/600x100/FFA07A/FFFFFF?text=+)
+[![Statistical Analysis Using C](https://via.placeholder.com/600x200/FFA07A/FFFFFF/FFA07A?text=Statistical+Analysis+Using+C)](https://github.com/ZKW0001/Statistical_Analysis_Using_C_on_Engineering_Datasets)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### [WebCalculator Project](https://github.com/ZKW0001/WebCalculator_Project)
-![](https://via.placeholder.com/600x100/9B59B6/FFFFFF?text=+)
+[![WebCalculator Project](https://via.placeholder.com/600x200/9B59B6/FFFFFF/9B59B6?text=WebCalculator+Project)](https://github.com/ZKW0001/WebCalculator_Project)
 
 </td>
 <td width="50%">
-
 </td>
 </tr>
 </table>
