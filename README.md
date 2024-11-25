@@ -22,15 +22,47 @@ I'm Kaiwen Zhao, currently an undergraduate 3rd year student at the University o
 
 ### Projects
 
-[![](https://img.shields.io/badge/-Multithreaded%20Programming%20Project-FF6B6B?style=flat-square&logo=c%2B%2B)](https://github.com/ZKW0001/Multithreaded_Programming_Project)
+<table>
+<tr>
+<td width="50%">
 
-[![](https://img.shields.io/badge/-Data%20Networking%20Project-4ECDC4?style=flat-square&logo=cisco)](https://github.com/ZKW0001/Data_networking_project)
+### [Multithreaded Programming Project](https://github.com/ZKW0001/Multithreaded_Programming_Project)
+![](https://via.placeholder.com/600x100/FF6B6B/FFFFFF?text=+)
 
-[![](https://img.shields.io/badge/-STM32%20Microcontroller%20Programming-45B7D1?style=flat-square&logo=arm)](https://github.com/ZKW0001/STM32_microcontroller_programming)
+</td>
+<td width="50%">
 
-[![](https://img.shields.io/badge/-Statistical%20Analysis%20Using%20C-FFA07A?style=flat-square&logo=c)](https://github.com/ZKW0001/Statistical_Analysis_Using_C_on_Engineering_Datasets)
+### [Data Networking Project](https://github.com/ZKW0001/Data_networking_project)
+![](https://via.placeholder.com/600x100/4ECDC4/FFFFFF?text=+)
 
-[![](https://img.shields.io/badge/-WebCalculator%20Project-9B59B6?style=flat-square&logo=javascript)](https://github.com/ZKW0001/WebCalculator_Project)
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [STM32 Microcontroller Programming](https://github.com/ZKW0001/STM32_microcontroller_programming)
+![](https://via.placeholder.com/600x100/45B7D1/FFFFFF?text=+)
+
+</td>
+<td width="50%">
+
+### [Statistical Analysis Using C](https://github.com/ZKW0001/Statistical_Analysis_Using_C_on_Engineering_Datasets)
+![](https://via.placeholder.com/600x100/FFA07A/FFFFFF?text=+)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [WebCalculator Project](https://github.com/ZKW0001/WebCalculator_Project)
+![](https://via.placeholder.com/600x100/9B59B6/FFFFFF?text=+)
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
+</table>
 
 
 <!-- ### Open source projects
