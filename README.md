@@ -25,6 +25,11 @@ I'm Kaiwen Zhao, currently an undergraduate 3rd year student at the University o
 
 ### Projects
 <div align="left">
+  <a href="https://github.com/ZKW0001/WebCalculator_Project">
+    <img src="https://img.shields.io/badge/Click_for_details-WebCalculator_Project-%236B3BCE?style=for-the-badge&logo=github&logoColor=white" alt="WebCalculator Project">
+  </a>
+</div>
+<div align="left">
   <a href="https://github.com/ZKW0001/Data_networking_project">
     <img src="https://img.shields.io/badge/Click_for_details-Data_Networking_Project-%23CE3B9A?style=for-the-badge&logo=github&logoColor=white" alt="Data Networking Project">
   </a>
@@ -42,11 +47,6 @@ I'm Kaiwen Zhao, currently an undergraduate 3rd year student at the University o
 <div align="left">
   <a href="https://github.com/ZKW0001/Statistical_Analysis_Using_C_on_Engineering_Datasets">
     <img src="https://img.shields.io/badge/Click_for_details-Statistical_Analysis_Using_C-%233BCE6F?style=for-the-badge&logo=github&logoColor=white" alt="Statistical Analysis Using C">
-  </a>
-</div>
-<div align="left">
-  <a href="https://github.com/ZKW0001/WebCalculator_Project">
-    <img src="https://img.shields.io/badge/Click_for_details-WebCalculator_Project-%236B3BCE?style=for-the-badge&logo=github&logoColor=white" alt="WebCalculator Project">
   </a>
 </div>
 
